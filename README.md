@@ -2,7 +2,8 @@
 
 💲💲💲 App de conversão de moedas/câmbio 💲💲💲 
 
-- Exemplo de consumo de uma __API pública__, usando as __principais bibliotecas__ e __padrões de projeto__ do __Kotlin__
+- Exemplo de consumo de uma __API pública__, usando as __principais bibliotecas__ e __padrões de projeto__ do __Kotlin__     
+- Orientação do especialista [Ezequiel Messore](https://www.linkedin.com/in/ezequielmessore/) da [DIO](https://web.dio.me/)
 
 ## - Tecnologias utilizadas:
 
